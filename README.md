@@ -24,4 +24,4 @@
 
 ## Contribución
 
-Este es un proyecto sencillo para practicar HTML, CSS y JavaScript. Si deseas contribuir, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
+Este es un proyecto sencillo para practicar HTML, CSS y JavaScript
